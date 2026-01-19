@@ -1,0 +1,38 @@
+[
+    {
+        "repo": "KnusBernd/Rooster",
+        "description": "Rooster Mod Manager"
+    },
+    {
+        "repo": "GrimStride/SomeUCHMods",
+        "description": "Some mods i have coded for UCH"
+    },
+    {
+        "repo": "xxxprod/UCH-AutoSave-Mod",
+        "description": "A mod to automatically save games"
+    },
+    {
+        "repo": "CandymanScripts/UCHTeamsMod",
+        "description": "Teams mod for UCH"
+    },
+    {
+        "repo": "batram/UCH-CamHog",
+        "description": "This is a mod that lets you hide/fade other players."
+    },
+    {
+        "repo": "batram/UCH-ChainedChicken",
+        "description": "UCH meets Chained Together"
+    },
+    {
+        "repo": "Killacon/CustomQuickChats",
+        "description": "Allows for customization of quick chats"
+    },
+    {
+        "repo": "beatrixwashere/jackalope",
+        "description": "A mod which adds built in functionality for tool assisted speedrunning"
+    },
+    {
+        "repo": "KnusBernd/BuildingPlus",
+        "description": "Enhanced building tools for Ultimate Chicken Horse."
+    }
+]
