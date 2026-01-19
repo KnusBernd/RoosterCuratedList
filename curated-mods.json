@@ -34,5 +34,13 @@
     {
         "repo": "KnusBernd/BuildingPlus",
         "description": "Enhanced building tools for Ultimate Chicken Horse."
+    },
+    {
+        "repo": "UnironicallyJuniper/UCH-CompetitiveNetcode",
+        "description": "Clientside conflict resolution for UCH."
+    },
+    {
+        "repo": "batram/UCH-DanceForce",
+        "description": "A mod that allows the host to force select a level."
     }
 ]
