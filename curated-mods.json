@@ -42,5 +42,13 @@
     {
         "repo": "batram/UCH-DanceForce",
         "description": "A mod that allows the host to force select a level."
+    },
+    {
+        "repo": "Osqat/UCH-BuildUnlimiter",
+        "description": "Removes build limit in freeplay."
+    },
+    {
+        "repo": "Osqat/UCHLocalSorter",
+        "description": "Fixes the local levels list to always show newest saves first, without freezes or crashes."
     }
 ]
