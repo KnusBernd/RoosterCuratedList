@@ -50,5 +50,9 @@
     {
         "repo": "Osqat/UCHLocalSorter",
         "description": "Fixes the local levels list to always show newest saves first, without freezes or crashes."
+    },
+    {
+        "repo": "KnusBernd/UCH-BetterRespawn",
+        "description": "Better respawn in Challenge and Freeplay. AutoRetry in Challenge Mode."
     }
 ]
