@@ -12,10 +12,6 @@
         "description": "A mod to automatically save games."
     },
     {
-        "repo": "CandymanScripts/UCHTeamsMod",
-        "description": "Teams mod for UCH."
-    },
-    {
         "repo": "batram/UCH-CamHog",
         "description": "This is a mod that lets you hide/fade other players."
     },
